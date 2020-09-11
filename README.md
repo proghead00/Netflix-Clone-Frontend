@@ -12,4 +12,3 @@
 ### <code> npm i && npm start </code> - this will start the development server after installing the node modules
 
 ![2020-09-11 (8)](https://user-images.githubusercontent.com/55017730/92961644-35e53000-f48d-11ea-9e88-48d0119994e9.png)
-
